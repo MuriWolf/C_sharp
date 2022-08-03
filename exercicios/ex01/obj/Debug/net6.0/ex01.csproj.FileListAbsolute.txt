@@ -1,0 +1,15 @@
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\obj\Debug\net6.0\ex01.csproj.AssemblyReference.cache
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\obj\Debug\net6.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\obj\Debug\net6.0\ex01.AssemblyInfoInputs.cache
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\obj\Debug\net6.0\ex01.AssemblyInfo.cs
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\obj\Debug\net6.0\ex01.csproj.CoreCompileInputs.cache
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\bin\Debug\net6.0\ex01.exe
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\bin\Debug\net6.0\ex01.deps.json
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\bin\Debug\net6.0\ex01.runtimeconfig.json
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\bin\Debug\net6.0\ex01.dll
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\bin\Debug\net6.0\ex01.pdb
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\obj\Debug\net6.0\ex01.dll
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\obj\Debug\net6.0\refint\ex01.dll
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\obj\Debug\net6.0\ex01.pdb
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\obj\Debug\net6.0\ex01.genruntimeconfig.cache
+C:\_wolf_files\estudos_programacao\C_sharp\exercicios\ex01\obj\Debug\net6.0\ref\ex01.dll

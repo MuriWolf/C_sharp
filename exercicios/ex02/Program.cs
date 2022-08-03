@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace teste
+namespace main
 {
     class Program
     {
@@ -11,11 +11,9 @@ namespace teste
         }
         static void Main(string[] args)
         {
-            string nome = "";
-            nome = input("Digite o nome: ");
-            Console.WriteLine("o nome é " + nome);
+            string nome = input("Digite seu nome: ");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Seu nome é {0}", nome);
         }
-
     }
-
 }
